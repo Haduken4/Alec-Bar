@@ -1,0 +1,7 @@
+ContentLibrary = 
+{
+	string Name = "Alec-Bar",
+	uint64 LibraryId = 59d02d1fca474413,
+	string SourceControlType = "",
+	bool ReadOnly = false,
+},
